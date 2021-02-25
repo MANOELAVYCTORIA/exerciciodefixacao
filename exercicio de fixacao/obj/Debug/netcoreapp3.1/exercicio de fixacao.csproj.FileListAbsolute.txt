@@ -1,0 +1,13 @@
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\9 - Herança e polimorfismo\exercicios\exercicio de fixacao\exercicio de fixacao\bin\Debug\netcoreapp3.1\exercicio de fixacao.exe
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\9 - Herança e polimorfismo\exercicios\exercicio de fixacao\exercicio de fixacao\bin\Debug\netcoreapp3.1\exercicio de fixacao.deps.json
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\9 - Herança e polimorfismo\exercicios\exercicio de fixacao\exercicio de fixacao\bin\Debug\netcoreapp3.1\exercicio de fixacao.runtimeconfig.json
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\9 - Herança e polimorfismo\exercicios\exercicio de fixacao\exercicio de fixacao\bin\Debug\netcoreapp3.1\exercicio de fixacao.runtimeconfig.dev.json
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\9 - Herança e polimorfismo\exercicios\exercicio de fixacao\exercicio de fixacao\bin\Debug\netcoreapp3.1\exercicio de fixacao.dll
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\9 - Herança e polimorfismo\exercicios\exercicio de fixacao\exercicio de fixacao\bin\Debug\netcoreapp3.1\exercicio de fixacao.pdb
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\9 - Herança e polimorfismo\exercicios\exercicio de fixacao\exercicio de fixacao\obj\Debug\netcoreapp3.1\exercicio de fixacao.csprojAssemblyReference.cache
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\9 - Herança e polimorfismo\exercicios\exercicio de fixacao\exercicio de fixacao\obj\Debug\netcoreapp3.1\exercicio de fixacao.AssemblyInfoInputs.cache
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\9 - Herança e polimorfismo\exercicios\exercicio de fixacao\exercicio de fixacao\obj\Debug\netcoreapp3.1\exercicio de fixacao.AssemblyInfo.cs
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\9 - Herança e polimorfismo\exercicios\exercicio de fixacao\exercicio de fixacao\obj\Debug\netcoreapp3.1\exercicio de fixacao.csproj.CoreCompileInputs.cache
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\9 - Herança e polimorfismo\exercicios\exercicio de fixacao\exercicio de fixacao\obj\Debug\netcoreapp3.1\exercicio de fixacao.dll
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\9 - Herança e polimorfismo\exercicios\exercicio de fixacao\exercicio de fixacao\obj\Debug\netcoreapp3.1\exercicio de fixacao.pdb
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\9 - Herança e polimorfismo\exercicios\exercicio de fixacao\exercicio de fixacao\obj\Debug\netcoreapp3.1\exercicio de fixacao.genruntimeconfig.cache
